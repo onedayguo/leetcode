@@ -1,0 +1,8 @@
+{
+  "questionId": "19",
+  "frontendId": "19",
+  "title": "Remove Nth Node From End of List",
+  "titleSlug": "remove-nth-node-from-end-of-list",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/remove-nth-node-from-end-of-list/"
+}

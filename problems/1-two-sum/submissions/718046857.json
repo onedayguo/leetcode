@@ -1,0 +1,19 @@
+{
+  "submissionId": "718046857",
+  "status": "SUCCESS",
+  "runtime": "43 ms",
+  "runtimeMs": 43,
+  "runtimePercentile": 5.54,
+  "memory": 5336000,
+  "memoryMB": 5.336,
+  "memoryPercentile": 87.51,
+  "totalCorrect": 63,
+  "totalTestcases": 63,
+  "statusCode": 0,
+  "timestamp": 1713082000,
+  "language": "golang",
+  "updatedAt": "2026-04-15T10:30:00+08:00",
+  "updatedBy": "Copilot",
+  "updateNote": "Added runtime/memory percentile data from GraphQL submissionDetail query.",
+  "note": "Brute force solution (O(n²) time, O(1) space). First accepted submission."
+}

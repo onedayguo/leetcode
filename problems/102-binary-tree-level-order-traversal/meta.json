@@ -1,0 +1,8 @@
+{
+  "questionId": "102",
+  "frontendId": "102",
+  "title": "Binary Tree Level Order Traversal",
+  "titleSlug": "binary-tree-level-order-traversal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/binary-tree-level-order-traversal/"
+}

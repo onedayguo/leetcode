@@ -1,0 +1,8 @@
+{
+  "questionId": "146",
+  "frontendId": "146",
+  "title": "LRU Cache",
+  "titleSlug": "lru-cache",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/lru-cache/"
+}

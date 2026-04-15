@@ -1,0 +1,8 @@
+{
+  "questionId": "300",
+  "frontendId": "300",
+  "title": "Longest Increasing Subsequence",
+  "titleSlug": "longest-increasing-subsequence",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/longest-increasing-subsequence/"
+}

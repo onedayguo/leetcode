@@ -1,0 +1,8 @@
+{
+  "questionId": "114",
+  "frontendId": "114",
+  "title": "Flatten Binary Tree to Linked List",
+  "titleSlug": "flatten-binary-tree-to-linked-list",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/"
+}

@@ -1,0 +1,8 @@
+{
+  "questionId": "49",
+  "frontendId": "49",
+  "title": "Group Anagrams",
+  "titleSlug": "group-anagrams",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/group-anagrams/"
+}

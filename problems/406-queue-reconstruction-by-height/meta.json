@@ -1,0 +1,8 @@
+{
+  "questionId": "406",
+  "frontendId": "406",
+  "title": "Queue Reconstruction by Height",
+  "titleSlug": "queue-reconstruction-by-height",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/queue-reconstruction-by-height/"
+}

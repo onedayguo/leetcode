@@ -1,0 +1,8 @@
+{
+  "questionId": "5",
+  "frontendId": "5",
+  "title": "Longest Palindromic Substring",
+  "titleSlug": "longest-palindromic-substring",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/longest-palindromic-substring/"
+}

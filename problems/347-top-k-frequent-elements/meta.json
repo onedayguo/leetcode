@@ -1,0 +1,8 @@
+{
+  "questionId": "347",
+  "frontendId": "347",
+  "title": "Top K Frequent Elements",
+  "titleSlug": "top-k-frequent-elements",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/top-k-frequent-elements/"
+}

@@ -1,0 +1,12 @@
+{
+  "submissionId": "718379592",
+  "status": "SUCCESS",
+  "runtime": "0 ms",
+  "memory": 5860000,
+  "memoryMB": 5860000,
+  "totalCorrect": 63,
+  "totalTestcases": 63,
+  "statusCode": 10,
+  "timestamp": 1776238086,
+  "language": "golang"
+}

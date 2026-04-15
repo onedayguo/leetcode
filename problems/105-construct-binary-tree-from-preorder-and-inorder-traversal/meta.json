@@ -1,0 +1,8 @@
+{
+  "questionId": "105",
+  "frontendId": "105",
+  "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+  "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+  "difficulty": "Medium",
+  "url": "https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+}

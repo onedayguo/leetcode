@@ -1,0 +1,8 @@
+{
+  "questionId": "301",
+  "frontendId": "301",
+  "title": "Remove Invalid Parentheses",
+  "titleSlug": "remove-invalid-parentheses",
+  "difficulty": "Hard",
+  "url": "https://leetcode.cn/problems/remove-invalid-parentheses/"
+}

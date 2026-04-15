@@ -1,0 +1,8 @@
+{
+  "questionId": "10",
+  "frontendId": "10",
+  "title": "Regular Expression Matching",
+  "titleSlug": "regular-expression-matching",
+  "difficulty": "Hard",
+  "url": "https://leetcode.cn/problems/regular-expression-matching/"
+}

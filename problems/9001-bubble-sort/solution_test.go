@@ -27,8 +27,10 @@ func TestBubbleSort(t *testing.T) {
 			bubbleSort(got)
 
 			if !equalSlices(got, want) {
+				t.Logf("got1:  %v", got)
 				t.Fatalf("bubbleSort(%v) = %v, want %v", tc.input, got, want)
 			}
+			t.Logf("got:  %v", got)
 		})
 	}
 }
@@ -44,5 +46,3 @@ func equalSlices(a, b []int) bool {
 	}
 	return true
 }
-
-
